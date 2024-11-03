@@ -1,0 +1,9 @@
+Flask
+spacy
+pypdf2
+docx2txt
+scikit-learn
+numpy
+scipy
+Jinja2
+werkzeug
