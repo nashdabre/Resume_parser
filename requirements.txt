@@ -7,3 +7,4 @@ numpy
 scipy
 Jinja2
 werkzeug
+gunicorn
